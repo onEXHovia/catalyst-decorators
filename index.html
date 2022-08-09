@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Target test</title>
+        <script src="build/app.js"></script>
+    </head>
+    <body>
+        <test-target>
+            <div data-target="test-target.item">Item single</div>
+
+            <div data-targets="test-target.items">items 1</div>
+            <div data-targets="test-target.items">items 2</div>
+            <div data-targets="test-target.items">items 3</div>
+
+            <button type="button" data-action="click:test-target#debugItems">Debug console</button>
+        </test-target>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.18.10",
+    "@symfony/webpack-encore": "^3.0.0",
+    "core-js": "^3.24.1"
+  },
+  "dependencies": {
+    "@github/catalyst": "^1.6.0"
+  },
+  "scripts": {
+    "dev-server": "./node_modules/.bin/encore dev-server",
+    "dev": "./node_modules/.bin/encore dev",
+    "watch": "./node_modules/.bin/encore dev --watch",
+    "build": "./node_modules/.bin/encore production"
+  }
+}
