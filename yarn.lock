@@ -925,10 +925,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@github/catalyst@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@github/catalyst/-/catalyst-1.6.0.tgz#378734d1d2b6a85af169d7e66c1a2a604bf1e82c"
-  integrity sha512-u8A+DameixqpeyHzvnJWTGj+wfiskQOYHzSiJscCWVfMkIT3rxnbHMtGh3lMthaRY21nbUOK71WcsCnCrXhBJQ==
+"@github/catalyst@v2.0.0-alpha1":
+  version "2.0.0-alpha1"
+  resolved "https://registry.yarnpkg.com/@github/catalyst/-/catalyst-2.0.0-alpha1.tgz#82d34ec145dc703e9413f6603efd7663d8f96228"
+  integrity sha512-WiQSggGzWGo4K2TAhr1NW/6Qag8mWckVqe1y56h6RBA4erjwrDMrtfmUuvY7BDqqTtqDmYhUm20EGcQyc9BuCw==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"

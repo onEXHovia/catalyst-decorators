@@ -1,4 +1,4 @@
-import { target, targets, controller, findTarget, findTargets } from '@github/catalyst'
+import { target, targets, controller } from '@github/catalyst'
 
 @controller
 class TestTargetElement extends HTMLElement {
@@ -9,7 +9,7 @@ class TestTargetElement extends HTMLElement {
     console.log(this.item);
     console.log(this.items);
 
-    console.log(findTarget(this, 'item'));
-    console.log(findTargets(this, 'items'));
+    //console.log(findTarget(this, 'item'));
+    //console.log(findTargets(this, 'items'));
   }
 }
